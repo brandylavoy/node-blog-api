@@ -1,0 +1,26 @@
+{
+  "name": "node-blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+        "body-parser": "^1.15.2",
+        "express": "^4.12.4",
+        "morgan": "^1.7.0",
+        "uuid": "^2.0.3"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandylavoy/node-blog-api.git"
+  },
+  "author": "Brandy La Voy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandylavoy/node-blog-api/issues"
+  },
+  "homepage": "https://github.com/brandylavoy/node-blog-api#readme"
+}
